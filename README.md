@@ -51,10 +51,10 @@ This project addresses three core executive questions:
 ## 📸 Dashboard Screenshots
 
 ### Page 1: Executive Sales & Customer Intelligence
-![Executive Sales Dashboard](assets/page1_executive_dashboard.jpg)
+![Executive Sales Dashboard](page1_executive_dashboard.jpg)
 
 ### Page 2: Customer Retention Cohort Analysis (Heatmap)
-![Customer Retention Cohort Heatmap](assets/page2_cohort_retention_heatmap.jpg)
+![Customer Retention Cohort Heatmap](page2_cohort_retention_heatmap.jpg)
 
 ---
 
